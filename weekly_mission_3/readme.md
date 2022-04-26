@@ -5,7 +5,7 @@ Proyectos desarrollados en la semana 3:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`Creación de proyectos de JS`|1|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
+|`Creación de proyectos de JS`|1|[Link al repo](https://github.com/antoniomd-fi/MisssionNodeJSSemana3Proyecto1)|
 |`Test Driven Development`|2|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
 |`Models`|3|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
 |`Services`|6|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
