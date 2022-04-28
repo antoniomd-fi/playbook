@@ -7,8 +7,6 @@ Proyectos desarrollados en la semana 3:
 | ------------- |:-------------:| -----:|
 |`Creación de proyectos de JS`|1|[Link al repo](https://github.com/antoniomd-fi/MisssionNodeJSSemana3Proyecto1)|
 |`Test Driven Development`|2|[Link al repo](https://github.com/antoniomd-fi/MissionNodeJSSemana3Proyecto2)|
-|`Models`|3|[Link al repo](https://github.com/antoniomd-fi/MissionNodeJSSemana3Proyecto3)|
-|`Services`|6|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
-|`Views`|7|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
-|`Express Server`|8|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
-|`Express API`|9|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
+|`Models, Services, Views`|3|[Link al repo](https://github.com/antoniomd-fi/MissionNodeJSSemana3Proyecto3)|
+|`Express Server`|4|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
+|`Express API`|5|[Link al repo](https://github.com/antoniomd-fi/playbook/tree/main/weekly_mission_3)|
